@@ -1,101 +1,77 @@
-# 📄 Curriculum Vitae
+# Vladislav Li
 
-## 🚀 Profile
+## Profile
+MLOps and Systems Engineer with a PhD in Artificial Intelligence, specialising in deploying and scaling machine learning systems in production environments. Experienced in building distributed backend services, containerised applications, and real-time inference pipelines. Strong background in Linux systems, Docker-based infrastructure, and GPU-enabled workloads across cloud and on-premise environments.
 
-Machine Learning Engineer with a PhD in Artificial Intelligence, specialising in computer vision, efficient AI, and real-time systems. Experienced in designing and deploying scalable AI solutions, optimising deep learning models for performance, and building production-ready backend systems. Strong background in C++, Python, and GPU-based workloads, with additional expertise in VR/AR and simulation environments.
+## Key Skills
 
-## 🧠 Core Skills
-
-**Machine Learning & AI**
-- Computer Vision (object detection, few-shot learning, model optimisation)
-- PyTorch, TensorFlow/Keras, NumPy, Pandas, scikit-learn
-- Real-time inference and edge AI systems
-- Data pipelines and model evaluation
+**MLOps & DevOps**
+- Docker, containerised deployments, distributed systems
+- CI/CD (GitHub Actions), automated workflows
+- Kubernetes (basic deployment and orchestration)
+- ML model deployment and inference pipelines
 
 **Backend & Systems**
-- FastAPI, Celery, Redis (distributed task systems)
-- REST APIs and asynchronous processing
-- Docker, containerised ML deployments
-- Linux (Ubuntu, Arch, Void)
+- FastAPI, Celery, Redis (asynchronous and distributed processing)
+- REST APIs, microservices architecture
+- Linux (Ubuntu, Arch, Fedora, Void)
+- GPU workloads and performance optimisation
+
+**Cloud & Infrastructure**
+- AWS (EC2 deployment, service configuration)
+- Azure (AI services integration)
+- Networking fundamentals (switches, cabling, system setup)
+- Server and workstation hardware configuration
 
 **Programming**
-- Python (ML systems, backend services)
-- C/C++ (high-performance systems, graphics, game engines)
+- Python (backend systems, ML deployment)
+- C/C++ (performance-critical systems)
 - C# (Unity development)
-- JavaScript, HTML, CSS, PHP
+- SQL (database design and normalisation)
 
-**Graphics / XR**
-- Unity, Unreal Engine 4
-- OpenGL, Vulkan
-- VR/AR (Oculus, HTC Vive, HoloLens)
+## Professional Experience
 
-## 💼 Professional Experience
+### Researcher (AI Systems / MLOps Focus)  
+Kingston University, London | 2021 – Present
 
-### Researcher (AI / Computer Vision)  
-**Kingston University, London** | 2021 – Present  
+- Designed and deployed containerised ML systems using Docker across Linux environments  
+- Built distributed inference pipelines using FastAPI, Celery, and Redis for asynchronous processing  
+- Developed production-oriented backend services for scalable AI workloads  
+- Optimised GPU-based inference performance for real-time applications  
+- Integrated ML systems into simulation and XR environments for industrial use cases  
+- Contributed to EU-funded projects focused on reliable and scalable AI deployment in Industry 4.0  
 
-- Designed and optimised **computer vision models** for object detection under data-scarce conditions  
-- Improved **model efficiency and inference performance** for real-time and resource-constrained environments  
-- Built **scalable AI pipelines** using FastAPI, Celery, and Redis for distributed processing  
-- Developed and deployed **containerised ML systems** using Docker across Linux environments  
-- Collaborated on **industry-aligned EU projects** focused on AI reliability and industrial optimisation  
-- Worked with synthetic data and simulation environments to enhance model robustness  
+## Projects
 
-## 🛠 Selected Projects
+### ML Deployment Platform (Distributed System)
+- Designed a scalable inference platform using FastAPI, Celery, and Redis  
+- Implemented asynchronous task queues and distributed processing  
+- Containerised services for reproducible deployment  
 
-### AI Model Deployment Platform  
-- Built a **distributed ML system** using FastAPI + Celery + Redis  
-- Enabled asynchronous task execution and scalable inference pipelines  
-- Containerised services for reproducibility and deployment  
+### Cloud & Service Deployment
+- Deployed services on AWS (EC2) for remote access and hosting  
+- Integrated Azure AI services into production workflows  
 
-### Real-Time Object Detection Systems  
-- Developed and optimised **deep learning models** for real-time applications  
-- Reduced computational cost while maintaining detection accuracy  
-- Applied techniques for **few-shot learning and data efficiency**
+### Containerised AI Systems
+- Built Docker-based ML services for real-time inference  
+- Managed dependencies and runtime environments across Linux systems  
 
-### VR/AR AI Applications  
-- Integrated **computer vision models into Unity-based environments**  
-- Built interactive AR/VR prototypes using real-time object recognition  
+## Education
 
-### Game Engine & Graphics Projects  
-- Developed systems using **OpenGL and Vulkan**  
-- Built gameplay and engine features in **Unity and Unreal Engine**  
-- Experience with console-level development (PS4 environment)
+**PhD in Artificial Intelligence**  
+Kingston University | 2021 – 2024  
 
-## 🎓 Education
+**MSc Games Development (Programming)**  
+Kingston University | 2019 – 2020  
 
-- **Ph.D. in Artificial Intelligence**  
-  *Kingston University* (2021 – 2024)  
+**BSc (Hons) Computer Science (Games Programming)**  
+Kingston University | 2015 – 2019  
 
-- **M.Sc. in Games Development (Games Programming)**  
-  *Kingston University* (2019 – 2020)  
+## Publications
 
-- **B.Sc. with Honours in Computer Science (Games Programming)**  
-  *Kingston University* (2015 – 2019)  
+Available on request (focused on computer vision and efficient AI systems)
 
-## 📄 Selected Publications
+## Additional
 
-- Enhancing 3D Object Detection in Autonomous Vehicles (2025)  
-- Energy Efficiency of Few-Shot Learning (2024)  
-- Data Augmentation for Low-Shot Object Detection (2024)  
-
-*(Full publication list available on request)*
-
-## 🌍 Projects & Collaboration
-
-**RAIDO (EU Project)** | 2023 – Present  
-- AI reliability and data optimisation for industrial applications  
-
-**TALON (EU Project)** | 2022 – 2025  
-- AI-driven optimisation for Industry 4.0 systems  
-
-## 🎮 Additional Experience
-
-- Multiple **game jam awards**, including 1st place finishes  
-- Developed prototypes across **PC, mobile, and experimental platforms**  
-- Built custom tools and small-scale engines  
-
-## 🔑 Keywords
-
-Machine Learning, Computer Vision, PyTorch, TensorFlow, FastAPI, Docker, Linux,  
-C++, Python, Real-Time Systems, AI Deployment, Edge AI, VR/AR, Unity, Unreal Engine  
+- Experience with VR/AR systems (Unity, Unreal Engine, HoloLens)
+- Exposure to robotics systems (Unitree platform, Python-based control)
