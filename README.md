@@ -1,7 +1,7 @@
 # Vladislav Li
 
 ## Profile
-MLOps and Systems Engineer with a PhD in Artificial Intelligence, specialising in deploying and scaling machine learning systems in production environments. Experienced in building distributed backend services, containerised applications, and real-time inference pipelines. Strong background in Linux systems, Docker-based infrastructure, and GPU-enabled workloads across cloud and on-premise environments.
+Software Engineer with a PhD in Artificial Intelligence, specialising in deploying and scaling machine learning systems in production environments. Experienced in building distributed backend services, containerised applications, and real-time inference pipelines. Strong background in Linux systems, Docker-based infrastructure, and GPU-enabled workloads across cloud and on-premise environments.
 
 ## Key Skills
 
